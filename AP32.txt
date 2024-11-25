@@ -1,1 +1,1 @@
-grep -a2 "elfo" anillo.txt
+grep -b1 "compañia" anillo.txt

@@ -1,1 +1,1 @@
-grep -n anillo.txt
+grep -n -w -i -v anillo anillo.txt

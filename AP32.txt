@@ -1,1 +1,1 @@
-grep -a Mordor anillo.txt
+grep ue anillo.txt

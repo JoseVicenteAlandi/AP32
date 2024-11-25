@@ -1,1 +1,1 @@
-grep ue anillo.txt
+grep -a2 "elfo" anillo.txt

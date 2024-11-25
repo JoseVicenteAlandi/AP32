@@ -1,1 +1,1 @@
-grep -o '\bagujero' anillo.txt
+grep -oi 'agujero' anillo.txt

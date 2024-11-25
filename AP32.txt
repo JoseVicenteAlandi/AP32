@@ -1,1 +1,1 @@
-grep -b Frodo anillo.txt
+grep -a Mordor anillo.txt

@@ -1,1 +1,1 @@
-grep -n -w -i -v anillo anillo.txt
+grep -b Frodo anillo.txt

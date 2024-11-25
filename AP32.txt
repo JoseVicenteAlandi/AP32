@@ -1,1 +1,1 @@
-grep -b1 "compañia" anillo.txt
+grep -e Gandalf -e Gris anillo.txt
